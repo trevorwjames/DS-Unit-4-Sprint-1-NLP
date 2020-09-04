@@ -71,6 +71,8 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+Unit_4_Sprint_1_Natural_Language_Processing_Study_Guide.ipynb
+
 
 # pyenv
 .python-version
